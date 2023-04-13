@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/apple-garamond');
+body{
+background-color: lightpink ;
+}
+h1 {
+    font-size: 200px;
+    font-family: 'Apple Garamond Light', sans-serif;
+    color: white;
+}
+h2 {
+    font-family: 'Apple Garamond Light', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
